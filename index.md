@@ -24,7 +24,7 @@
     position: absolute;
     top: 20px;
     left: 20px;
-    width: 140px;
+    width: 180px;
   }
 
   h1 {
@@ -96,6 +96,13 @@
   <p>
     <strong>Email:</strong> sagi.maor@weizmann.ac.il<br>
     <strong>Institution:</strong> Department of Earth and Planetary Sciences, Weizmann Institute of Science
+  </p>
+
+  <hr>
+
+  <h3>Python Course GitHub</h3>
+  <p>
+    <a href="https://github.com/Code-Maven/wis-python-course-2025-03">Course Repository</a>
   </p>
 
 </div>

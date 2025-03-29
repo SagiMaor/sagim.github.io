@@ -1,6 +1,6 @@
 <style>
   body {
-    background-image: url("images/Background.jpg");
+    background-image: url("Images/Background.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;

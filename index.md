@@ -1,4 +1,7 @@
 <style>
+  header, footer {
+  display: none;
+}
   body {
     background-image: url("Images/Background.jpg");
     background-size: cover;

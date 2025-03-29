@@ -1,21 +1,22 @@
 <style>
   header, footer {
-  display: none;
-}
+    display: none;
+  }
   body {
-    background-image: url("Images/Background.jpg");
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    color: white;
-    text-shadow: 1px 1px 2px black;
+    background-color: #e1f5e0; /* light green */
+    color: #1b3d1b; /* dark green text */
     font-family: sans-serif;
+    text-shadow: none;
+    padding: 2em;
   }
   h1, h2 {
     margin-top: 2em;
   }
+  a {
+    color: #2a8a44; /* rich green link color */
+  }
 </style>
+
 
 # Sagi Maor
 
